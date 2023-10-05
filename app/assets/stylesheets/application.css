@@ -1,0 +1,27 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+body{
+  margin: 33px;
+}
+
+/*top.html.erb*/
+.new_body{
+  margin: 33px;
+}
+
+.new_content{
+  margin-bottom: 33px;
+}
+
+.new_start{
+  margin-left: 33px;
+}
+
+.table{
+  margin-bottom: 2px;
+}
